@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='PassthroughSubject &amp; CurrentValueSubject'/>
+        <page name='Publisher &amp; Subscriber'/>
+        <page name='Map Operator'/>
+        <page name='TryMap Operator'/>
+        <page name='Retry Operator'/>
+        <page name='Filter Operator'/>
+        <page name='Subscriptions'/>
+        <page name='Cancellation &amp; Memory Management'/>
+        <page name='Combining Operators'/>
+        <page name='Flatmap and error types'/>
+        <page name='Future and Promises'/>
+    </pages>
+</playground>
